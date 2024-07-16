@@ -1,0 +1,18 @@
+{
+    "title": "Your Manga Title",
+    "author": "Author Name",
+    "description": "Short description",
+    "chapters": {
+        "1": {
+            "title": "Chapter 1 Title",
+            "volume": "1",
+            "groups": {
+                "Group Name": [
+                    "https://imgur.com/a/kehpi9S",
+                    "https://imgur.com/a/24GLXZ1"
+                    
+                ]
+            }
+        }
+    }
+}
